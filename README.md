@@ -53,8 +53,6 @@ The dataset is divided into 3 parts :
    >  Do keep in mind that data transormation here doesn't refer to minmax scaling or normalization . Simply conversion of irregular attributes to derive more regular attributes ( for example : dict value from offer Data ) .
 <div style="display:flex">
 
-<img src="https://user-images.githubusercontent.com/90456255/212075242-9688eaa0-c43e-44c3-8dee-87fec9cf1585.gif" width="250px" height="600px">
-
 <div>
 
 5. <p style="color:#00704A">Exploratory Data Anlaysis</p>
@@ -80,15 +78,17 @@ The enitre customer base was segmented into 5 important clusters :
 
 The following deductions were made from some of the following inferences :
 
-![](../Desktop/mVSov.png)
-![](../Desktop/ocVSov.png)
-![](../Desktop/tVSov.png)
+
+![mVSov](https://user-images.githubusercontent.com/90456255/212075618-dfadd2ee-c20d-4259-9c70-cc7ac7444eb1.png)
+![ocVSov](https://user-images.githubusercontent.com/90456255/212075638-1fd1f8db-1ca6-4a05-a213-bcaba3934a6e.png)
+![tVSov](https://user-images.githubusercontent.com/90456255/212075656-436d7c3b-4257-4772-b4ba-f91f4f2ae6dc.png)
 
 
 Here is a list of customer demographics based on their respective Segment :
 
-![](../Desktop/cD.png)
-![](../Desktop/gD.png)
-![](../Desktop/aD.png)
-![](../Desktop/iD.png)
-![](../Desktop/spec.png)
+![cD](https://user-images.githubusercontent.com/90456255/212075683-222ee983-77ec-4a4d-8bc9-0df8bf0c5cdd.png)
+![gD](https://user-images.githubusercontent.com/90456255/212075695-34b9af90-ab8d-407f-89e5-3116966e5020.png)
+![aD](https://user-images.githubusercontent.com/90456255/212075709-6007a563-7893-4be4-9608-8bfa98f9b57d.png)
+![iD](https://user-images.githubusercontent.com/90456255/212075720-49efcd85-d40e-4a06-b858-fcad2de67e05.png)
+![spec](https://user-images.githubusercontent.com/90456255/212075761-a31e6d00-89eb-47e8-833a-7d03532e4ef6.png)
+
